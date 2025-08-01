@@ -1,5 +1,5 @@
 # BL4CKN3T WIRELESS ATTACKS FRAMEWORK
-> **Wireless HACK Engine v2.7**  
+> **Wireless HACK Engine v1.7**  
 > Developed by: `WH04M1`
 
 ---
